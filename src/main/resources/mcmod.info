@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "autoarmor",
+    "name": "Auto Armor",
+    "description": "Automatically equips the best armor from your inventory. Press B to open the settings GUI.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [],
+    "credits": ""
+  }
+]
